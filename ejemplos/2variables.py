@@ -1,11 +1,11 @@
 #Cadena
-nombre = "Reyes"
+nombre = "Flor"
 #Numeros (int)
 edad = 33
 #Numeros con decimales (float)
 pi = 3.14
 #Booleanos (True o False)
-gusta_python = True
+gusta_python = False
 
 #Imprimir las variables
 print("Nombre", nombre)
