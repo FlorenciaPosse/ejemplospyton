@@ -11,7 +11,7 @@ movie_genre = "Drama"
 
 duration_minutes = 120
 
-movie_awards = input("Does it have awards? (yes/no): ").lower() == "yes"
+movie_awards =True
 
 print("The movie title is:", movie_title)
 
