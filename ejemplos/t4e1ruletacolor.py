@@ -3,15 +3,15 @@ def mensaje_color(color):
     color = color.lower()
 
     if color=="rojo":
-         return ("mensaje de pasión y energía")
+         return ("Hoy no vine a pasar desapercibido. Vine a dejar huella, a romper límites y a encender todo lo que toque con mi energía. La pasión no se explica: se siente, se vive y se contagia. Que cada paso tenga fuerza, cada mirada intención y cada sueño el fuego suficiente para hacerse realidad.")
     elif color=="verde":
-         return ("mensaje de esperanza y crecimiento")
+         return ("La esperanza florece cuando decides no rendirte, y el crecimiento comienza cuando crees en ti.")
     elif color== "azul":
-        return ("mensaje de calma y serenidad")
+        return ("La calma llega cuando aprendes a respirar paz en medio del ruido.")
     elif color== "amarillo":
-        return ("mensaje de felicidad y optimismo")
+        return ("La felicidad comienza cuando decides mirar la vida con esperanza y una sonrisa.")
     elif color== "morado":
-        return ("mensaje de sabiduria y creatividad")
+        return ("La sabiduría nace de escuchar, y la creatividad de atreverse a imaginar lo que otros no ven.")
     else:
         return "color no seleccionable"
 
