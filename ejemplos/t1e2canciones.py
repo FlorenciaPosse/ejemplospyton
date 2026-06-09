@@ -1,17 +1,4 @@
-#Cadena
-nombre = "Flor"
-#Numeros (int)
-edad = 33
-#Numeros con decimales (float)
-pi = 3.14
-#Booleanos (True o False)
-gusta_python = False
 
-#Imprimir las variables
-print("Nombre", nombre)
-print("Edad ", edad)
-print("Pi ", pi)
-print("Me gusta python? ", gusta_python)
 #Datos de tu cancion favorita
 
 cancion_favorita = input("Cual es tu cancion favorita? ")
