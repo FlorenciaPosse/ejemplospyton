@@ -1,15 +1,15 @@
 
 #Obtener valores introducidos por el usuario
 
-movie_title = input("What is the title of your favorite movie? ")
+movie_title ="Titanic"
 
-movie_director = input("Who is the director? ")
+movie_director = "James Cameron"
 
-release_year = input("What is the release year? ")
+release_year = 1997
 
-movie_genre = input("What genre is it? ")
+movie_genre = "Drama"
 
-duration_minutes = input("How many minutes long is it? ")
+duration_minutes = 120
 
 movie_awards = input("Does it have awards? (yes/no): ").lower() == "yes"
 
